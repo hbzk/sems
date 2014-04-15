@@ -1,4 +1,4 @@
-package subject;
+package vo;
 
 /* setter/getter 적용 <= 캡슐화
  */
