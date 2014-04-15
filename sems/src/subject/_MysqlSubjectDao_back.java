@@ -1,7 +1,11 @@
 package subject;
 
 /* 가나다라마바사
- * aaaaaaaa
+<<<<<<< .mine
+ * 아자차카타파하
+=======
+ * aaaaaaaa 
+>>>>>>> .r3
  * 
  * 
  */
