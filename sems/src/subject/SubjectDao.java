@@ -1,8 +1,6 @@
-package dao;
+package subject;
 
 import java.util.List;
-
-import vo.SubjectVo;
 
 public interface SubjectDao {
 	void insert(SubjectVo subject) throws Throwable;
